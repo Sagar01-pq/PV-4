@@ -7,6 +7,7 @@
  -ADR: Skin Rash, Itching
  -Seriousness: Non Serious
   Explanation: The reaction didn't cause death, or hospitalization,or any life threatening condition.
+ 
  -Expectedness: Expected
    Reason: Skin Rash and Itching are well known adverse effect of Amoxicillin.
      
@@ -15,10 +16,10 @@
  -ADR: GI Bleeding Requiring Hospitalization 
  -Seriousness: Serious
   Explanation: The reaction cause hospitalization, which meets the definition of a serious ADR.
- -Expectedness: Expected
+-Expectedness: Expected
    Reason: GI Bleeding is a well known adverse effect of NSAIDs like Ibuprofen.
 
-## Case 3
+## Case 
  -Drug: Metformin
  -ADR: Lactic Acidosis
  -Seriousness: Serious
