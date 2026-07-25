@@ -4,9 +4,12 @@
 
 ## Case 1
 -Drug: Amoxicillin 
+
 -ADR: Skin Rash, Itching
+
 -Seriousness: Non Serious
   Explanation: The reaction didn't cause death, or hospitalization,or any life threatening condition.
+
 -Expectedness: Expected
    Reason: Skin Rash and Itching are well known adverse effect of Amoxicillin.
      
